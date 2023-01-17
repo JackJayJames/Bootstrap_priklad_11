@@ -16,11 +16,5 @@
   "bugs": {
     "url": "https://github.com/JackJayJames/Bootstrap_priklad_11/issues"
   },
-  "homepage": "https://github.com/JackJayJames/Bootstrap_priklad_11#readme",
-  "dependencies": {
-    "bootstrap": "^5.2.3"
-  },
-  "devDependencies": {
-    "parcel": "^2.8.2"
-  }
+  "homepage": "https://github.com/JackJayJames/Bootstrap_priklad_11#readme"
 }
